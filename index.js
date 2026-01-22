@@ -6,6 +6,8 @@ const likesCoding = true
 
 // console.log(`Hi, my name is ${firstName}, I was born ${birthYear}, and it is ${likesCoding} that I like coding.`);
 
+
+
 // Lesson 2
 
 const sayHello = "Hello from Node.js"   //Task 1
@@ -38,8 +40,9 @@ const greetwithTime = (name, timeOfDay = "morning") => {   //Task 6
     return `Good ${timeOfDay}, ${name}!`;
 };
 
-const greetingOne = greetwithTime("Elias", "evening")
-console.log(greetingOne)
+// const greetingOne = greetwithTime("Elias", "evening")
+// console.log(greetingOne)
 
-const greetingTwo = greetwithTime("Elias")
-console.log(greetingTwo)
+// const greetingTwo = greetwithTime("Elias")
+// console.log(greetingTwo)
+
